@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Dojo 2",
+		"url": "https://dojo.io",
+		"desc": "I am the project lead. A better way to create enterprise web applications."
+	}, {
+		"name": "SitePen",
+		"url": "https://www.sitepen.com",
+		"desc": "I am CTO. Modernizing apps, tools, and teams."
+	}, {
+		"name": "NOW TV",
+		"url": "https://www.nowtv.com/",
+		"desc": "I used to run technology for NOW TV."
+	}
+]
