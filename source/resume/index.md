@@ -3,107 +3,58 @@ title: resume
 date: 2017-06-10 15:45:06
 ---
 
-# Curriculum Vitae
+# Curriculum Vitae – Résumé
 
-## Director of Technology/CTO
+I have been lucky in my career to have a variety of roles, from deep technical expertise to senior level management. I really like the inflection point where technology meets business problems, believing that technology mastery aids in delivery on the promise an organisation makes its customers. I am always looking for challenging roles which leverage my unique experience and talents.
 
-Experienced leader who delivers technology management that meets the needs of the business. Focus on delivering solutions that solve business problems effectively. Recently experienced in services and technology in enterprise scale web front-end technology.  Extensive background in web standards, OTT, content delivery and e-Commerce.
+I am a dual US/UK citizen.
 
-### Professional Strengths
+---
 
-* Strong and diverse technical experience
-* Experience with diverse sourcing models
-* Direct, forthright and accountable
-* Capable business acumen with understanding from marketing, sales, operations, innovation and delivery
-* Able to identify and grow talent
-* Dual US/UK Citizen
+## Chief Technology Officer; [SitePen, Inc.](https://sitepen.com) <br/> Aug 2015 – Present
 
-### Professional Experience
+An approximately 30-person company focused on delivering enterprise web applications. I have been responsible for leading the software engineering and engaging with our clients on their architecture. I also lead our growth into more business consulting with of focus on helping large enterprises adopt open source methodologies to scale their enterprise development.
 
-**Chief Technology Officer**
-[*SitePen, Inc.*](https://www.sitepen.com)
-Aug. 2015 – Present
+I also have been the project lead for Dojo 2 (dojo.io).  Dojo 2 is a total re-invention of Dojo 1 and is a front-end web framework focused on enabling delivery of modern enterprise web applications at scale. This role has meant I have become very involved with Microsoft’s TypeScript language and have in depth knowledge of web technologies including the standards bodies that support them.
 
-Part of the executive management team of a company focused on providing professional services, training and support to enterprise customers with complex web application needs.
+## Head of Technology; [NOW TV](https://www.nowtv.com/); London, UK <br />Sep 2014 – Aug 2015
 
-* Hands-on role responsible for a team of engineers delivering professional services across various sectors
-* Help transition organisation from purely professional services to more business consulting
-* Represented SitePen and Dojo Toolkit in championing evolution of the web technologies platform with other industry leaders
-* Lead the architecture of Dojo 2.0, a leading front-end JavaScript toolkit for complex, data centric, enterprise grade web applications
-* Help large enterprise organisations scale their enterprise development and adopt "open source" practices internally to manage the enterprise developments
+A truly unique opportunity in my life was to lead technology for [NOW TV](https://www.nowtv.com/).  NOW TV was Sky TV’s response to Netflix entering the UK market, but soon after I joined, we realised that there was a much broader focus for NOW TV.  NOW TV offered the best pay TV in the UK on your terms.
 
-**Head of Technology**
-[*NOW TV*](https://www.nowtv.com)
-London, UK
-Sep. 2013 – Aug. 2015
+I was responsible for around 120 technologists across multiple disciplines. The NOW TV grew its customer base about four-fold in the two years I was responsible. We also started the process of extending the business into broadband during my tenure. While the role was almost exclusively management, my technical depth allowed me to understand the challenges facing my teams better as well as guide the business in a direction where technology was an enabler, not a barrier.
 
-Lead technology for the fastest growing OTT video streaming service in the UK.  As part of Sky Plc., NOW TV has gained success in getting non-pay TV customers to pay for TV.  Having the biggest and best pay TV content in the UK has meant that NOW TV has had to have a diverse distribution as well as the ability to meet the scalability demands of the customers.
+NOW TV was very demanding, because not only were we offering large scale over the top television, but because we were evolving in our business purpose, it was very challenging to continue to meet the high expectations of our customers. We had to make highly complex technology work perfectly every time a customer pressed play. Because it was so easy to join NOW TV also reduced the barriers to leave. This creates the need to have products that exceed expectations.
 
-* Oversaw an over 10-fold increase in customers
-* Responsible for the whole gamut of technology, from client application to customer management systems, to e-Commerce
-* Led teams innovating in solving technology challenges that had never been encountered before
-* Launched clients on new eight devices
-* Enabled delivery of consumer electronic devices via online and through a retail supply chain
-* Directly responsible for a department of 140 and over £15m annual budget
+## Head of Technology; Sky Business; Livingston, UK <br />May 2010 – Aug 2013
 
-**Head of Technology**
-[*Sky Business*](https://business.sky.com/)
-Livingston, UK
-May 2010 – Aug. 2013
+I took over a failing programme of work to deliver a new customer management system. I successfully delivered the programme and then transitioned the programme team to an efficient business as usual support model. We went from a project team of about 160 who were mostly contractors to a team of about 65 who were 90% employees. It was a challenge to take something that was designed with abstract best of breed technologies into something that was a reasonable solution that meet the business needs to service Sky’s commercial customers.
 
-Lead technology fort the business-to-business division of Sky, supplying Sky and The Cloud WiFi to tens of thousands of locations across the UK and ROI.
+## Director; Asseverate Services Ltd.; London, UK <br />Oct 2009 – May 2010
 
-* Delivered the multi-million pound CRM replacement programme
-* Integrated the Cloud WiFi provisioning and management into CRM systems
-* Transitioned from 160 contact-led department delivering a programme to a 70 person efficient perm BAU department over 2 years
+Ultimately a transitional period, where I continued to work for Sky. I was focused primarily continued stabilisation and roll-out of the contact centre solution we deployed for them as part of my work for Dimension Data. In additional to technical expertise, there was need for organisational design to build an internal team at Sky which could effectively manage the large, complex contact centre solution.
 
-**Director**
-*Asseverate Services Ltd.*
-London, UK
-Oct. 2009 – May 2010
+## Practice Solution Architect; Dimension Data; London, UK <br />Dec 2006 – Oct 2009
 
-An independent contractor, focusing on call centre technology.  Led the technical architecture and operations activities to stabilise the contact centre technology for a large client while assisting in charting a course to return the solution to BAU operations.
+I moved full-time to the UK in November 2006 and joined Dimension Data in the UK less than a month later. Dimension Data wanted to grow their call centre consulting business in the UK and had landed a major contract at Sky to roll out the largest installation at that time of Genesys as a fully Voice over IP solution.  It needed to scale to 4,000+ users on a global footprint.  I led the architecture of the solution and we handed over to the in-house deployment team.  I continued to architect other solutions, travelling globally working with other customers for Dimension Data.
 
-**Practice Solution Architect**
-*Dimension Data*
-London, UK
-Dec. 2006 – Oct. 2009
+The solution at Sky though ran into scalability issues which resulted in several frequent outages, several times a week.  Because of my expertise and knowledge, I was requested to go up to Scotland to work with crisis team at Sky to resolve the issues.
 
-Led architecture and solution design for engagements in the UK around call centre technology.  Focused on large-scale VoIP contact centres and self-service speech recognition technology.
+## Senior Principal Consultant; eLoyalty; Lake Forest, IL, USA <br />Jan 1998 – Sep 2006
 
-* Architected the largest VoIP contact centre at the time around 7k users over 8 locations
-* Provided thought leadership and consulting in contact centre technology in Europe, South Africa and Australia in addition to the UK
-* Architected and led delivery of a speech-recognition voice self-service solution
-* Led technical conversations between Cisco and Genesys about integration of their VoIP products
-
-**Senior Principal Consultant**
-*eLoyalty*
-Lake Forest, IL, USA
-Jan. 1998 – Sept. 2006
-
-Consultant and architect providing services in the call centre technology arena.  Focused on large scale, global solutions for large enterprises.
-
-* Assignments globally, including Hong Kong, Germany, Ireland, UK and France
-* Led relationship for key suppliers and vendors
-* Clients in media, insurance, finance, healthcare, communications and service sectors
+I joined eLoyalty as a Consultant and continued to grow into more senior roles.  I wanted to travel globally, and I was put on projects in varied locations across the US and Hong Kong, Hamburg, Belfast, Paris, and Dublin. I touched most technologies that were present in customer contact centres, though my main specialty was large scale global call routing solutions.
 
 *Previous Roles Upon Request*
 
-### Education
+---
 
-**High School Diploma**
-*Cactus High School*
-Glendale, AZ, USA
-1987-1991
+## Education
 
-**Some Courses/Non-Degree**
-*Glendale Community College*
-Glendale, AZ, USA
-1992-1993
+I graduated Cactus High School in Glendale, Arizona in 1991.  I attended a semester at Glendale Community College in Glendale, Arizona in 1992, but did not earn a degree.
 
-### Contributions/Recognition
+---
 
-* Dojo 2 Project Lead (since August 2015)
-* Contributor and Committer to the Dojo Toolkit (Committer since April 2012)
-* Contributor to other open source projects including The Intern Testing Framework
-* Presented at various industry conferences relating to professional work and technology expertise
+## Accomplishments
+
+I have had several public speaking engagements, on a wide variety of topics.  I have been most prolific at SkillsMatter, where a [number of my talks](https://skillsmatter.com/legacy_profile/kitson-kelly#skillscasts) are available to view.
+
+I became a committer to the Dojo Toolkit in 2010 and became project lead of Dojo 2 in August of 2015.  I am responsible for a couple other open source projects and contribute regularly to other open source projects including [TypeScript](http://typescriptlang.org/).
