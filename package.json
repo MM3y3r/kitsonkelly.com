@@ -7,19 +7,19 @@
     "start": "hexo server"
   },
   "hexo": {
-    "version": "3.3.7"
+    "version": "3.3.8"
   },
   "dependencies": {
-    "hexo": "^3.2.0",
+    "hexo": "^3.3.8",
     "hexo-deployer-now": "^1.0.7",
     "hexo-generator-archive": "^0.1.4",
     "hexo-generator-category": "^0.1.3",
-    "hexo-generator-index": "^0.2.0",
+    "hexo-generator-index": "^0.2.1",
     "hexo-generator-tag": "^0.2.0",
     "hexo-pagination": "^0.1.0",
-    "hexo-renderer-ejs": "^0.2.0",
+    "hexo-renderer-ejs": "^0.3.1",
     "hexo-renderer-marked": "^0.2.10",
-    "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.0"
+    "hexo-renderer-stylus": "^0.3.3",
+    "hexo-server": "^0.2.2"
   }
 }
