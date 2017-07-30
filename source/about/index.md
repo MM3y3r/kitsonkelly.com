@@ -23,3 +23,4 @@ I have given a number of talks on various topics over the years, if you are curi
 * Talking with Dylan, CEO of SitePen, on the early development phases of [Dojo 2](https://skillsmatter.com/skillscasts/7522-an-in-depth-introduction-to-dojo-2)
 * More anti-patterns in [7 Habits of Highly Ineffective Developers](https://skillsmatter.com/skillscasts/8489-7-habits-of-highly-ineffective-developers)
 * A far more recent talk on [TypeScript: TL;DR](https://pusher.com/sessions/meetup/js-monthly-london/an-introduction-to-typescript)
+* An [Overview of Electron](https://skillsmatter.com/skillscasts/10216-overview-of-electron-the-web-is-everywhere) as FullStack 2017

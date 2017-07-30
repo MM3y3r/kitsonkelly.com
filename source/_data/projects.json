@@ -1,5 +1,9 @@
 [
 	{
+		"name": "GitHub Projects",
+		"url": "https://github.com/kitsonk",
+		"desc": "All of my projects on GitHub"
+	}, {
 		"name": "Dojo 2",
 		"url": "https://dojo.io",
 		"desc": "I am the project lead. A better way to create enterprise web applications."
