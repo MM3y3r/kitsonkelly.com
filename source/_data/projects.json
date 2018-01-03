@@ -6,11 +6,15 @@
 	}, {
 		"name": "Dojo 2",
 		"url": "https://dojo.io",
-		"desc": "I am the project lead. A better way to create enterprise web applications."
+		"desc": "I am a significant contributor and used to be project lead. A better way to create enterprise web applications."
+	}, {
+		"name": "ThoughtWorks",
+		"url": "https://www.thoughtworks.com/",
+		"desc": "I am a Principal Technologist. Always Inventing, Always Delivering."
 	}, {
 		"name": "SitePen",
 		"url": "https://www.sitepen.com",
-		"desc": "I am CTO. Modernizing apps, tools, and teams."
+		"desc": "I used to be CTO at SitePen"
 	}, {
 		"name": "NOW TV",
 		"url": "https://www.nowtv.com/",
