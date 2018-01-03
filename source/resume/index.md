@@ -1,21 +1,25 @@
 ---
 title: resume
-date: 2017-06-10 15:45:06
+date: 2018-01-03 17:00:00
 ---
 
 # Curriculum Vitae – Résumé
 
 I have been lucky in my career to have a variety of roles, from deep technical expertise to senior level management. I really like the inflection point where technology meets business problems, believing that technology mastery aids in delivery on the promise an organisation makes its customers. I am always looking for challenging roles which leverage my unique experience and talents.
 
-I am a dual US/UK citizen.
+I am a dual US/UK citizen. I am working in Australia on a 457 visa.
 
 ---
 
-## Chief Technology Officer; [SitePen, Inc.](https://sitepen.com) <br/> Aug 2015 – Present
+## Principal Technologist; [ThoughtWorks](https://www.thoughtworks.com) <br />Jan 2018 - Present
+
+Starting out in a new role providing senior technolgy leadership to clients.
+
+## Chief Technology Officer; [SitePen, Inc.](https://sitepen.com) <br />Aug 2015 – Dec 2017
 
 An approximately 30-person company focused on delivering enterprise web applications. I have been responsible for leading the software engineering and engaging with our clients on their architecture. I also lead our growth into more business consulting with of focus on helping large enterprises adopt open source methodologies to scale their enterprise development.
 
-I also have been the project lead for Dojo 2 (dojo.io).  Dojo 2 is a total re-invention of Dojo 1 and is a front-end web framework focused on enabling delivery of modern enterprise web applications at scale. This role has meant I have become very involved with Microsoft’s TypeScript language and have in depth knowledge of web technologies including the standards bodies that support them.
+I also have been the project lead for Dojo 2 ([dojo.io](https://dojo.io)).  Dojo 2 is a total re-invention of Dojo 1 and is a front-end web framework focused on enabling delivery of modern enterprise web applications at scale. This role has meant I have become very involved with Microsoft’s TypeScript language and have in depth knowledge of web technologies including the standards bodies that support them.
 
 ## Head of Technology; [NOW TV](https://www.nowtv.com/); London, UK <br />Sep 2014 – Aug 2015
 
@@ -57,4 +61,4 @@ I graduated Cactus High School in Glendale, Arizona in 1991.  I attended a semes
 
 I have had several public speaking engagements, on a wide variety of topics.  I have been most prolific at SkillsMatter, where a [number of my talks](https://skillsmatter.com/legacy_profile/kitson-kelly#skillscasts) are available to view.
 
-I became a committer to the Dojo Toolkit in 2010 and became project lead of Dojo 2 in August of 2015.  I am responsible for a couple other open source projects and contribute regularly to other open source projects including [TypeScript](http://typescriptlang.org/).
+I became a committer to the Dojo Toolkit in 2010 and became was the project lead of Dojo 2 in from August 2015 until December 2017.  I am responsible for a couple other open source projects and contribute regularly to other open source projects including [TypeScript](http://typescriptlang.org/).
