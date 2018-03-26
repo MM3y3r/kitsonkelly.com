@@ -183,7 +183,7 @@ He went on to provide was a primer on walking TypeScript AST, using his [handy A
 ```ts
 // for each public class method in our source file...
 for (const method of classDec.getInstanceMethods()) {
-  if (method.getReturnType().isNullable)
+  if (method.getReturnType().isNullable()
       && classDec.getInstanceMethod(method.getName() + 'OrThrow') === undefined)
     {
       console.warn(`Expected method ${classDec.getName()}.${method.getName()} ` +
