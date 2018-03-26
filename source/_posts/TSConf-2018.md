@@ -31,10 +31,7 @@ Probably one of the most fun and interesting moments of Anders is when he talked
 
 ![A slide showing a nun with a ruler and talking about strict mode in TypeScript](/images/Strict_TypeScript.jpg)
 
-Anders touched on a part of TypeScript I have always been a fan of, the strictness. Over the last several versions of TypeScript
-greater and greater levels of type checking and adherence have been introduced. The continue to do analysis of how the impacts of
-the strictness actually impact code and are finding that the a good third of the time, increased strictness is actually identifying
-issues with the code, while a third of the time, it is identifying code that _could_ have been a problem in the future.
+Anders touched on a part of TypeScript I have always been a fan of, the strictness. Over the last several versions of TypeScript greater and greater levels of type checking and adherence have been introduced. The continue to do analysis of how the impacts of the strictness actually impact code and are finding that the a good third of the time, increased strictness is actually identifying issues with the code, while a third of the time, it is identifying code that _could_ have been a problem in the future.
 
 Anders finished with two things in the future with TypeScript. With conditional types coming in TypeScript 2.8 (which is going to a release candidate this week) and then project references coming at some point in the future.
 
@@ -208,6 +205,8 @@ This led into talking about Ethereum smart contracts and how the company she wor
 ## Q&A with the TypeScript Team
 
 Nick ([@nicknisi](https://twitter.com/nicknisi)), who had been hosting the event and Torrey ([@iTorrey](https://twitter.com/iTorrey)) who hosts [TalkScript](https://twitter.com/talkscript), a TypeScript podcast, asked questions of a panel from the TypeScript team. The panel included Mohamed ([@fdsmars](https://twitter.com/fdsmars)), Ryan ([@SeaRyanC](https://twitter.com/SeaRyanC)), Anders ([@ahejlsberg](https://twitter.com/ahejlsberg)) and Daniel ([@drosenwasser](https://twitter.com/drosenwasser)).
+
+![A picture of Mohamed, Ryan, Anders and Daniel](/images/TypeScript_Team.jpg)
 
 There was a fair amount of insight and ideas floating around on the panel. Some interesting things I picked up during the QA where:
 
